@@ -1,0 +1,1 @@
+start java -cp ..\compiled info.kgeorgiy.ja.kuleshov.rmi.rmi.Server

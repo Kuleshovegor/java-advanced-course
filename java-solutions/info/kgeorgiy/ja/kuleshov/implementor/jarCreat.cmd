@@ -1,0 +1,2 @@
+javac -d tempImplementor -p ../../../../../../java-advanced-2021/artifacts;../../../../../../java-advanced-2021/lib Implementor.java ../../../../../module-info.java
+jar cmf Manifest.txt implementor.jar tempImplementor/*.class

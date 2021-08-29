@@ -1,0 +1,1 @@
+java -jar ..\..\..\..\..\..\..\lib\junit-platform-console-standalone-1.7.2-all.jar --fail-if-no-tests --class-path ..\compiled --select-class info.kgeorgiy.ja.kuleshov.rmi.rmi.BankTest

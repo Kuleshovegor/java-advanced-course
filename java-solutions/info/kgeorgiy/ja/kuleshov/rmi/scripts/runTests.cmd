@@ -1,0 +1,1 @@
+java -cp ..\compiled;..\..\..\..\..\..\..\lib\* info.kgeorgiy.ja.kuleshov.rmi.rmi.BankTests
